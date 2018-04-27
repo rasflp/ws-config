@@ -1,0 +1,12 @@
+server:
+  port: ${PORT:${SERVER_PORT:0}}
+
+management:
+  security:
+    enabled: false
+
+info:
+  id: ${spring.application.name}
+
+logging:
+  level: debug
