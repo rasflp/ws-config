@@ -7,11 +7,11 @@ logging:
 app:
   config:
     property:
-      string: String Property Win D 
+      string: String Property Win E 
       long: 100
       boolean: true
       random: ${random.long}
-      env: Environment Property Win D
+      env: Environment Property Win E
       
 ---
 spring:
