@@ -7,11 +7,11 @@ logging:
 app:
   config:
     property:
-      string: String Property Loaded 1
+      string: String Property Loaded A
       long: 100
       boolean: true
       random: ${random.long}
-      env: Environment Property Loaded 2
+      env: Environment Property Loaded A
       
 ---
 spring:
