@@ -8,7 +8,7 @@ management:
 security:
   user:
     name: admin
-    password: m4m
+    password: t0ps3cr3t
     
 spring:
   boot:
